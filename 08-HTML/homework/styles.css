@@ -1,0 +1,18 @@
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: seagreen;
+    padding: 50px;
+    border: rgb(4, 26, 13);
+    border-style: dotted;
+
+    
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+
+}
